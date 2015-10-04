@@ -61,7 +61,7 @@ Now, we have to use git commands. A [Git reference](http://gitref.org/) may help
   + `git init`
 + Using the SSH to your repository, add your github repo
   + `git remote add origin git@github.com:yourname/yourrepository.git`
-+ Add all the files in your workspace
++ Add all the files in your workspace - do this each time you make a change
   + `git add .`
 + Create/Make a commit (like a save) with a commit message
   + `git commit -m "First commit"`
