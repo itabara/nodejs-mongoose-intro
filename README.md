@@ -1,6 +1,6 @@
 #Mongoose
 
-(Note, these are notes for Chapter 5 from Amos Q. Haviv's "MEAN Web Development." Exerpts are
+(Note: these are notes for Chapter 5 from Amos Q. Haviv's "MEAN Web Development." Exerpts are
 for educational purposes).
 
 Mongoose is a Node.js module which acts as an ORM for MongoDB documents. However,
